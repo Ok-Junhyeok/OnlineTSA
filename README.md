@@ -5,7 +5,7 @@
 - [Incheon National University](https://www.inu.ac.kr/mbshome/mbs/inu/index.do) (INU)
 ---
 #### Lecture Material
-- **공지사항 및 강의영상:** [INU LM](http://cyber.inu.ac.kr/)
+- **공지사항 및 강의영상:** [INU LMS](http://cyber.inu.ac.kr/)
 - **이론 및 실습 자료:** [Github](https://github.com/cheonbi)
 
 #### Lecture Check
