@@ -1,4 +1,4 @@
-## [🌞 KIM KYUNGWON](https://sites.google.com/view/kkim)
+## [🌞 KIM KYUNGWON](https://sites.google.com/view/thekimk)
 #### Head of Digital Economy & Intelligent Applications Lab
 #### Assistant Professor, Division of International Trade
 #### College of Global Political Science and Economics
