@@ -5,10 +5,10 @@
 - [Incheon National University](https://www.inu.ac.kr/mbshome/mbs/inu/index.do) (INU)
 ---
 ## ✔️ CHECK
-#### 📚 Lecture Material
+#### 📚 Lecture Material & Environment
 - **공지사항 및 강의영상:** [INU LMS](http://cyber.inu.ac.kr/)
 - **이론 및 실습 자료:** [Repositories in Github](https://github.com/cheonbi?tab=repositories)
-- **온라인:**    
+- **온라인 환경:**    
 (1) **개인정보 업데이트:** `수업 관련` 공지/이메일/메시지 전달 및 `커뮤니케이션`을 위한 `전화번호 및 이메일` 시스템 업데이트    
 (2) **수업진행링크:** `LMS/메시지/이메일` 등을 통해 전송될 `수업링크` 확인    
 (3) **화면출력:** `본인 PC`로 출력되는 `화면`에 `공지나 강의자료`가 잘 보이는지 확인    
