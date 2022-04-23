@@ -1,12 +1,9 @@
-
-## 🌞 KIM KYUNGWON
----
+## [🌞 KIM KYUNGWON](https://sites.google.com/view/kkim)
 #### Head of Digital Economy & Intelligent Applications Lab
 #### Assistant Professor, Division of International Trade
 #### College of Global Political Science and Economics
 #### Incheon National University (INU)
-- Homepage: https://sites.google.com/view/kkim
-
+---
 #### Lecture Material
 - **(이론+실습) GitHub:** https://github.com/cheonbi
 - **(이론+영상) 인천대 학습관리시스템(INU LMS):** http://cyber.inu.ac.kr/
@@ -37,7 +34,6 @@
 (5) **전화:** 032-835-8525 (`긴급 실시간`)    
 
 ## ✨ RESEARCH INTEREST
----
 #### Target Markets:
 - Online Advertising and Marketing
 - Finance and Cryptocurrency
