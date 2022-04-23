@@ -14,7 +14,7 @@
 - **Time Sequence Segmentation**
 - **Momentum Trading and Deep Hedging**
 - **Machine/Deep Learning Forecasting**
-### 🌠 Applications of Algorithms:
+### 🌠 Applications:
 - **Market Efficiency, Information Equilibrium**
 - **Investment Strategy, Portfolio Management**
 - **Early Warning System, Decision Making**
