@@ -1,8 +1,8 @@
 ## [🌞 KIM KYUNGWON](https://sites.google.com/view/thekimk)
-#### Head of Digital Economy & Intelligent Applications Lab
-#### Assistant Professor, Division of International Trade
-#### College of Global Political Science and Economics
-#### Incheon National University (INU)
+##### Head of Digital Economy & Intelligent Applications Lab
+##### Assistant Professor, Division of International Trade
+##### College of Global Political Science and Economics
+##### Incheon National University (INU)
 ---
 #### Lecture Material
 - **(이론+실습) GitHub:** https://github.com/cheonbi
@@ -11,7 +11,7 @@
 #### Lecture Check
 - **오프라인:** [INU LMS](http://cyber.inu.ac.kr/) 내 `공지사항` 확인, `교재` 또는 `강의자료` 확인    
 - **온라인:**    
-(1) **개인정보 업데이트(본인 책임):** `수업 관련` 공지/이메일/메시지 전달 및 `커뮤니케이션`을 위한 `전화번호 및 이메일` 시스템 내 업데이트    
+(1) **개인정보 업데이트:** `수업 관련` 공지/이메일/메시지 전달 및 `커뮤니케이션`을 위한 `전화번호 및 이메일` 시스템 업데이트    
 (2) **수업진행링크:** `LMS/메시지/이메일` 등을 통해 전송될 `수업링크` 확인    
 (3) **화면출력:** `본인 PC`로 출력되는 `화면`에 `공지나 강의자료`가 잘 보이는지 확인    
 (4) **스피커출력:** `본인 PC`로 출력되는 `음성`이나 `음악소리`가 잘 들리는지 확인    
