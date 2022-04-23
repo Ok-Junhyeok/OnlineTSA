@@ -1,4 +1,5 @@
-## 🌞 ASSISTANT PROFESSOR in Division of International Trade
+## 🌞 KIM KYUNGWON
+- Assistant Professor in Division of International Trade
 - Head of [`Digital Economy & Intelligent Applications Lab`](https://sites.google.com/view/thekimk) (DEIA Lab)
 - College of Global Political Science and Economics
 - Incheon National University (INU)
