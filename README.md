@@ -1,8 +1,8 @@
 ## [🌞 KIM KYUNGWON](https://sites.google.com/view/thekimk)
-##### Head of Digital Economy & Intelligent Applications Lab
-##### Assistant Professor, Division of International Trade
-##### College of Global Political Science and Economics
-##### Incheon National University (INU)
+##### Assistant Professor in Division of International Trade
+- Head of Digital Economy & Intelligent Applications Lab
+- College of Global Political Science and Economics
+- Incheon National University (INU)
 ---
 #### Lecture Material
 - **(이론+실습) GitHub:** https://github.com/cheonbi
