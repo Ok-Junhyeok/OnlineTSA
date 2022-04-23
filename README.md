@@ -8,9 +8,6 @@
 #### 📚 Lecture Material
 - **공지사항 및 강의영상:** [INU LMS](http://cyber.inu.ac.kr/)
 - **이론 및 실습 자료:** [Repositories in Github](https://github.com/cheonbi?tab=repositories)
-
-#### ‼️ Lecture Check
-- **오프라인:** [INU LMS](http://cyber.inu.ac.kr/) 내 `공지사항` 확인, `교재` 또는 `강의자료` 확인    
 - **온라인:**    
 (1) **개인정보 업데이트:** `수업 관련` 공지/이메일/메시지 전달 및 `커뮤니케이션`을 위한 `전화번호 및 이메일` 시스템 업데이트    
 (2) **수업진행링크:** `LMS/메시지/이메일` 등을 통해 전송될 `수업링크` 확인    
