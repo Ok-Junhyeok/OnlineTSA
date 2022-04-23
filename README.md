@@ -1,9 +1,9 @@
-### 🌞 Assistant Professor in Division of International Trade
+## 🌞 Assistant Professor in Division of International Trade
 - Head of [`Digital Economy & Intelligent Applications Lab`](https://sites.google.com/view/thekimk) (DEIA Lab)
 - College of Global Political Science and Economics
 - [Incheon National University](https://www.inu.ac.kr/mbshome/mbs/inu/index.do) (INU)
----
-### ✔️ CHECK
+
+## ✔️ CHECK
 #### 📚 Lecture Material & Environment
 - **공지사항 및 강의영상:** [INU LMS](http://cyber.inu.ac.kr/)
 - **이론 및 실습 자료:** [Repositories in Github](https://github.com/cheonbi?tab=repositories)
@@ -30,7 +30,7 @@
 (4) **이메일:** thekink.kr@gmail.com, kk@inu.ac.kr (`느린 실시간`)        
 (5) **전화:** 032-835-8525 (`긴급 실시간`)        
 
-### ✨ RESEARCH INTEREST
+## ✨ RESEARCH INTEREST
 #### 🏢 Target Markets:
 - Online Advertising and Marketing
 - Finance and Cryptocurrency
