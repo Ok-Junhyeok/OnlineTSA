@@ -5,16 +5,16 @@
 - **Incheon National University (INU)**
 
 ## ✨ RESEARCH INTEREST
-#### 🏢 Target Markets:
+### 🏢 Target Markets:
 - **Online Advertising and Marketing**
 - **Finance and Cryptocurrency**
 - **Real Estate and Energy Commodity**
-#### 🔭 Data Science Algorithms:
+### 🔭 Data Science Algorithms:
 - **Statistical Inference**
 - **Time Sequence Segmentation**
 - **Momentum Trading and Deep Hedging**
 - **Machine/Deep Learning Forecasting**
-#### 🌠 Applications of Algorithms:
+### 🌠 Applications of Algorithms:
 - **Market Efficiency, Information Equilibrium**
 - **Investment Strategy, Portfolio Management**
 - **Early Warning System, Decision Making**
