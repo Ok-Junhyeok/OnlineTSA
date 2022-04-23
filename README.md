@@ -6,7 +6,7 @@
 ---
 #### Lecture Material
 - **공지사항 및 강의영상:** [INU LMS](http://cyber.inu.ac.kr/)
-- **이론 및 실습 자료:** [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cheonbi)
+- **이론 및 실습 자료:** [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/cheonbi)
 
 #### Lecture Check
 - **오프라인:** [INU LMS](http://cyber.inu.ac.kr/) 내 `공지사항` 확인, `교재` 또는 `강의자료` 확인    
